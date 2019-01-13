@@ -1,0 +1,1379 @@
+ {"data" : [ {
+	"bizId": "ZmQd58A64XxBYvekjHMmxA",
+	"lat": 50.6256396,
+	"lng": 3.0507903,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/ZmQd58A64XxBYvekjHMmxA",
+      "photoHref": "/biz/le-turquoise-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media3.fl.yelpcdn.com/bphoto/wqq8pG-mSYg7bx4VVfjmKA/ls.jpg",
+          "srcset": "https://s3-media3.fl.yelpcdn.com/bphoto/wqq8pG-mSYg7bx4VVfjmKA/258s.jpg 1.03x,https://s3-media3.fl.yelpcdn.com/bphoto/wqq8pG-mSYg7bx4VVfjmKA/348s.jpg 1.39x,https://s3-media3.fl.yelpcdn.com/bphoto/wqq8pG-mSYg7bx4VVfjmKA/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 2,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 2,
+      "reviewCount": 26,
+      "name": "Le Turquoise",
+      "neighborhoods": ["Centre"],
+      "rating": 4.5,
+      "businessUrl": "/biz/le-turquoise-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 78 11 02",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "45 rue Masséna",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=hotdogs&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Fast Food"
+        },
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "gyL2VLuZP2tQreRc4vxx-g",
+	"lat": 50.6323222,
+	"lng": 3.0548879,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/gyL2VLuZP2tQreRc4vxx-g",
+      "photoHref": "/biz/unik-kebab-lille-2?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media1.fl.yelpcdn.com/bphoto/E8zeZzPQQO4ncpblvE0wjA/ls.jpg",
+          "srcset": "https://s3-media1.fl.yelpcdn.com/bphoto/E8zeZzPQQO4ncpblvE0wjA/258s.jpg 1.03x,https://s3-media1.fl.yelpcdn.com/bphoto/E8zeZzPQQO4ncpblvE0wjA/348s.jpg 1.39x,https://s3-media1.fl.yelpcdn.com/bphoto/E8zeZzPQQO4ncpblvE0wjA/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 3,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 3,
+      "reviewCount": 35,
+      "name": "Unik Kebab",
+      "neighborhoods": ["Vieux-Lille"],
+      "rating": 4,
+      "businessUrl": "/biz/unik-kebab-lille-2?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 13 98 38",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "15 rue Royale",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        },
+        {
+          "url": "/search?cflt=salad&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Salades"
+        },
+        {
+          "url": "/search?cflt=bbq&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "BBQ &amp; Grillades"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "W9LIxxx_T5E2xTnzV30UVg",
+	"lat": 50.63901,
+	"lng": 3.05867,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/W9LIxxx_T5E2xTnzV30UVg",
+      "photoHref": "/biz/aspendos-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media2.fl.yelpcdn.com/bphoto/ZAEipz48K8chUgcLoS6cFA/ls.jpg",
+          "srcset": "https://s3-media2.fl.yelpcdn.com/bphoto/ZAEipz48K8chUgcLoS6cFA/258s.jpg 1.03x,https://s3-media2.fl.yelpcdn.com/bphoto/ZAEipz48K8chUgcLoS6cFA/348s.jpg 1.39x,https://s3-media2.fl.yelpcdn.com/bphoto/ZAEipz48K8chUgcLoS6cFA/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 4,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 4,
+      "reviewCount": 33,
+      "name": "Aspendos",
+      "neighborhoods": ["Wazemmes"],
+      "rating": 4.5,
+      "businessUrl": "/biz/aspendos-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 13 72 65",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "10 rue des Sarrazins",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        },
+        {
+          "url": "/search?cflt=hotdogs&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Fast Food"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "tGf99TeF_Y_K1oGt0Zoi_A",
+	"lat": 50.61968,
+	"lng": 3.06788,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/tGf99TeF_Y_K1oGt0Zoi_A",
+      "photoHref": "/biz/kemer-istanbul-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media4.fl.yelpcdn.com/bphoto/F1YI-a7j0YQhCGJ0w9fU0w/ls.jpg",
+          "srcset": "https://s3-media4.fl.yelpcdn.com/bphoto/F1YI-a7j0YQhCGJ0w9fU0w/258s.jpg 1.03x,https://s3-media4.fl.yelpcdn.com/bphoto/F1YI-a7j0YQhCGJ0w9fU0w/348s.jpg 1.39x,https://s3-media4.fl.yelpcdn.com/bphoto/F1YI-a7j0YQhCGJ0w9fU0w/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 5,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 5,
+      "reviewCount": 28,
+      "name": "Kemer Istanbul",
+      "neighborhoods": ["Centre"],
+      "rating": 4,
+      "businessUrl": "/biz/kemer-istanbul-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 40 17 63",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "19 rue du Faisan",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=hotdogs&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Fast Food"
+        },
+        {
+          "url": "/search?cflt=donairs&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        },
+        {
+          "url": "/search?cflt=vegetarian&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Végétarien"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "tbMvKp-Pgj3HWWrBFKXFLg",
+	"lat": 50.6324406,
+	"lng": 3.05416,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/tbMvKp-Pgj3HWWrBFKXFLg",
+      "photoHref": "/biz/c%C3%A9line-lille-4?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media4.fl.yelpcdn.com/bphoto/RFeTn3-iYaoh-2SPmXMWGQ/ls.jpg",
+          "srcset": "https://s3-media4.fl.yelpcdn.com/bphoto/RFeTn3-iYaoh-2SPmXMWGQ/258s.jpg 1.03x,https://s3-media4.fl.yelpcdn.com/bphoto/RFeTn3-iYaoh-2SPmXMWGQ/348s.jpg 1.39x,https://s3-media4.fl.yelpcdn.com/bphoto/RFeTn3-iYaoh-2SPmXMWGQ/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 6,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 6,
+      "reviewCount": 12,
+      "name": "Céline",
+      "neighborhoods": ["Vauban Esquermes"],
+      "rating": 4.5,
+      "businessUrl": "/biz/c%C3%A9line-lille-4?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 86 27 22",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "261 Rue Nationale",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        },
+        {
+          "url": "/search?cflt=turkish&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Turc"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "RxuiWuRjF6V4XAVsHV2zfw",
+	"lat": 50.6196723,
+	"lng": 3.0671551,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/RxuiWuRjF6V4XAVsHV2zfw",
+      "photoHref": "/biz/l-antalya-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media1.fl.yelpcdn.com/assets/srv0/yelp_styleguide/4f30aa60678e/assets/img/default_avatars/business_large_square.png",
+          "srcset": null
+        }
+      ],
+      "isScrollable": false
+    },
+    "snippet": null,
+    "markerKey": 7,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 7,
+      "reviewCount": 1,
+      "name": "L’Antalya",
+      "neighborhoods": ["St-Maurice Pellevoisin"],
+      "rating": 5,
+      "businessUrl": "/biz/l-antalya-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "09 52 72 07 45",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "98 rue Saint-Gabriel",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "-Vcg1AGi6wq6Vx3wZYhWeg",
+	"lat": 50.629854,
+	"lng": 3.045957,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/-Vcg1AGi6wq6Vx3wZYhWeg",
+      "photoHref": "/biz/restaurant-ankara-lille-2?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media1.fl.yelpcdn.com/bphoto/1dqqsGvRrHxj8K7YdmKqmw/ls.jpg",
+          "srcset": "https://s3-media1.fl.yelpcdn.com/bphoto/1dqqsGvRrHxj8K7YdmKqmw/258s.jpg 1.03x,https://s3-media1.fl.yelpcdn.com/bphoto/1dqqsGvRrHxj8K7YdmKqmw/348s.jpg 1.39x,https://s3-media1.fl.yelpcdn.com/bphoto/1dqqsGvRrHxj8K7YdmKqmw/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 8,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 8,
+      "reviewCount": 11,
+      "name": "Restaurant Ankara",
+      "neighborhoods": ["Centre"],
+      "rating": 4.5,
+      "businessUrl": "/biz/restaurant-ankara-lille-2?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 55 99 45",
+      "priceRange": "€€",
+      "alternateNames": [],
+      "formattedAddress": "11 Rue Molinel",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=turkish&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Turc"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "risN-TZaJHplm7WyLbAHKw",
+	"lat": 50.636457,
+	"lng": 3.0616378,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/risN-TZaJHplm7WyLbAHKw",
+      "photoHref": "/biz/unik-kebab-lille-5?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media1.fl.yelpcdn.com/bphoto/SRV3_Bt2azT6cgvnO83SwA/ls.jpg",
+          "srcset": "https://s3-media1.fl.yelpcdn.com/bphoto/SRV3_Bt2azT6cgvnO83SwA/258s.jpg 1.03x,https://s3-media1.fl.yelpcdn.com/bphoto/SRV3_Bt2azT6cgvnO83SwA/348s.jpg 1.39x,https://s3-media1.fl.yelpcdn.com/bphoto/SRV3_Bt2azT6cgvnO83SwA/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": false
+    },
+    "snippet": null,
+    "markerKey": 9,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 9,
+      "reviewCount": 1,
+      "name": "Unik Kebab",
+      "neighborhoods": ["Centre"],
+      "rating": 5,
+      "businessUrl": "/biz/unik-kebab-lille-5?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 78 11 51",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "27 rue Nationale",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        },
+        {
+          "url": "/search?cflt=bbq&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "BBQ &amp; Grillades"
+        },
+        {
+          "url": "/search?cflt=hookah_bars&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Bars à narguilé, bars à chicha"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "4MWsdRxE2AbwhIxsr7YYgg",
+	"lat": 50.6354,
+	"lng": 3.07002,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/4MWsdRxE2AbwhIxsr7YYgg",
+      "photoHref": "/biz/etoile-de-rabat-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media1.fl.yelpcdn.com/bphoto/bXSldQjTLY05lRXkQOSHHw/ls.jpg",
+          "srcset": "https://s3-media1.fl.yelpcdn.com/bphoto/bXSldQjTLY05lRXkQOSHHw/258s.jpg 1.03x,https://s3-media1.fl.yelpcdn.com/bphoto/bXSldQjTLY05lRXkQOSHHw/348s.jpg 1.39x,https://s3-media1.fl.yelpcdn.com/bphoto/bXSldQjTLY05lRXkQOSHHw/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 10,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 10,
+      "reviewCount": 3,
+      "name": "Etoile de Rabat",
+      "neighborhoods": ["Bois Blancs"],
+      "rating": 3.5,
+      "businessUrl": "/biz/etoile-de-rabat-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 92 56 86",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "129 avenue de Dunkerque",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=turkish&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Turc"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "ZonC-yj09660EzlPirtElw",
+	"lat": 50.6225712,
+	"lng": 3.0534749,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/ZonC-yj09660EzlPirtElw",
+      "photoHref": "/biz/le-bosphore-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media2.fl.yelpcdn.com/bphoto/wkfOy_wDM9cWM2On6yiIPw/ls.jpg",
+          "srcset": "https://s3-media2.fl.yelpcdn.com/bphoto/wkfOy_wDM9cWM2On6yiIPw/258s.jpg 1.03x,https://s3-media2.fl.yelpcdn.com/bphoto/wkfOy_wDM9cWM2On6yiIPw/348s.jpg 1.39x,https://s3-media2.fl.yelpcdn.com/bphoto/wkfOy_wDM9cWM2On6yiIPw/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 11,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 11,
+      "reviewCount": 16,
+      "name": "Le Bosphore",
+      "neighborhoods": ["Centre"],
+      "rating": 4,
+      "businessUrl": "/biz/le-bosphore-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 30 63 16",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "53 Rue Masséna",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=hotdogs&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Fast Food"
+        },
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "yjKFOL0ulGTR1Jj2lgDXWQ",
+	"lat": 50.6253408,
+	"lng": 3.0556705,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/yjKFOL0ulGTR1Jj2lgDXWQ",
+      "photoHref": "/biz/istanbul-concept-lille-2?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media3.fl.yelpcdn.com/bphoto/najWW6Zq-HQAdt1gFnzJew/ls.jpg",
+          "srcset": "https://s3-media3.fl.yelpcdn.com/bphoto/najWW6Zq-HQAdt1gFnzJew/258s.jpg 1.03x,https://s3-media3.fl.yelpcdn.com/bphoto/najWW6Zq-HQAdt1gFnzJew/348s.jpg 1.39x,https://s3-media3.fl.yelpcdn.com/bphoto/najWW6Zq-HQAdt1gFnzJew/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 12,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 12,
+      "reviewCount": 5,
+      "name": "Istanbul Concept",
+      "neighborhoods": ["Vauban Esquermes"],
+      "rating": 3.5,
+      "businessUrl": "/biz/istanbul-concept-lille-2?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 74 44 77 26",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "25 rue de Turenne",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        },
+        {
+          "url": "/search?cflt=turkish&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Turc"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "_VBCOY-nI7pFhLDgFc8SXQ",
+	"lat": 50.6378119,
+	"lng": 3.0698311,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/_VBCOY-nI7pFhLDgFc8SXQ",
+      "photoHref": "/biz/anatolie-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media2.fl.yelpcdn.com/bphoto/Cy8qWqwfQ5rlu-ptpVKagA/ls.jpg",
+          "srcset": "https://s3-media2.fl.yelpcdn.com/bphoto/Cy8qWqwfQ5rlu-ptpVKagA/258s.jpg 1.03x,https://s3-media2.fl.yelpcdn.com/bphoto/Cy8qWqwfQ5rlu-ptpVKagA/348s.jpg 1.39x,https://s3-media2.fl.yelpcdn.com/bphoto/Cy8qWqwfQ5rlu-ptpVKagA/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 13,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 13,
+      "reviewCount": 12,
+      "name": "Anatolie",
+      "neighborhoods": ["Centre"],
+      "rating": 3.5,
+      "businessUrl": "/biz/anatolie-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 55 73 59",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "7 rue Léon Gambetta",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=turkish&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Turc"
+        },
+        {
+          "url": "/search?cflt=greek&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Grec"
+        },
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "RQrVSsIgSGTVAuR4Yfm1qw",
+	"lat": 50.63296,
+	"lng": 3.05502,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/RQrVSsIgSGTVAuR4Yfm1qw",
+      "photoHref": "/biz/unik-kebab-lille-3?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media2.fl.yelpcdn.com/bphoto/ClFfSzqjmPSgxHcWqeT7pA/ls.jpg",
+          "srcset": "https://s3-media2.fl.yelpcdn.com/bphoto/ClFfSzqjmPSgxHcWqeT7pA/258s.jpg 1.03x,https://s3-media2.fl.yelpcdn.com/bphoto/ClFfSzqjmPSgxHcWqeT7pA/348s.jpg 1.39x,https://s3-media2.fl.yelpcdn.com/bphoto/ClFfSzqjmPSgxHcWqeT7pA/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 14,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 14,
+      "reviewCount": 5,
+      "name": "Unik Kebab",
+      "neighborhoods": ["Centre"],
+      "rating": 4,
+      "businessUrl": "/biz/unik-kebab-lille-3?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "27 rue Nationale",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "DFX0OeVdmXrfiq_xCrWbCg",
+	"lat": 50.626304,
+	"lng": 3.0488422,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/DFX0OeVdmXrfiq_xCrWbCg",
+      "photoHref": "/biz/el-riadh-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media3.fl.yelpcdn.com/bphoto/NOcBvFshzpeJBn4d25D1XQ/ls.jpg",
+          "srcset": "https://s3-media3.fl.yelpcdn.com/bphoto/NOcBvFshzpeJBn4d25D1XQ/258s.jpg 1.03x,https://s3-media3.fl.yelpcdn.com/bphoto/NOcBvFshzpeJBn4d25D1XQ/348s.jpg 1.39x,https://s3-media3.fl.yelpcdn.com/bphoto/NOcBvFshzpeJBn4d25D1XQ/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 15,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 15,
+      "reviewCount": 26,
+      "name": "El Riadh",
+      "neighborhoods": ["Centre"],
+      "rating": 2.5,
+      "businessUrl": "/biz/el-riadh-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 13 16 93",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "4 place des Reignaux",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=moroccan&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Marocain"
+        },
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        },
+        {
+          "url": "/search?cflt=donairs&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "1J4aCM9W2bMTqDkOUPmZbw",
+	"lat": 50.6420005,
+	"lng": 3.0866405,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/1J4aCM9W2bMTqDkOUPmZbw",
+      "photoHref": "/biz/le-vieux-istanbul-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media1.fl.yelpcdn.com/bphoto/4Ax-M60sH0_tAzuPT-5G6w/ls.jpg",
+          "srcset": "https://s3-media1.fl.yelpcdn.com/bphoto/4Ax-M60sH0_tAzuPT-5G6w/258s.jpg 1.03x,https://s3-media1.fl.yelpcdn.com/bphoto/4Ax-M60sH0_tAzuPT-5G6w/348s.jpg 1.39x,https://s3-media1.fl.yelpcdn.com/bphoto/4Ax-M60sH0_tAzuPT-5G6w/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 16,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 16,
+      "reviewCount": 10,
+      "name": "Le Vieux Istanbul",
+      "neighborhoods": ["Vieux-Lille"],
+      "rating": 4,
+      "businessUrl": "/biz/le-vieux-istanbul-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 74 41 91",
+      "priceRange": "€€",
+      "alternateNames": [],
+      "formattedAddress": "17 rue de Gand",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=hotdogs&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Fast Food"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "wtAZcCkOw4BbFJT54gwmbg",
+	"lat": 50.619457,
+	"lng": 3.066929,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/wtAZcCkOw4BbFJT54gwmbg",
+      "photoHref": "/biz/le-must-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media3.fl.yelpcdn.com/bphoto/8YfYOizE3vOHdmht5vsK1Q/ls.jpg",
+          "srcset": "https://s3-media3.fl.yelpcdn.com/bphoto/8YfYOizE3vOHdmht5vsK1Q/258s.jpg 1.03x,https://s3-media3.fl.yelpcdn.com/bphoto/8YfYOizE3vOHdmht5vsK1Q/348s.jpg 1.39x,https://s3-media3.fl.yelpcdn.com/bphoto/8YfYOizE3vOHdmht5vsK1Q/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 17,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 17,
+      "reviewCount": 14,
+      "name": "Le Must",
+      "neighborhoods": ["Centre"],
+      "rating": 3,
+      "businessUrl": "/biz/le-must-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 59 05 55 41",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "2 rue du Vieux Faubourg",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=hotdogs&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Fast Food"
+        },
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        },
+        {
+          "url": "/search?cflt=indpak&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Indien"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "_cVdNazggmLr2pu7J6uxhA",
+	"lat": 50.630526398896,
+	"lng": 3.0559533354586,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/_cVdNazggmLr2pu7J6uxhA",
+      "photoHref": "/biz/gur-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media1.fl.yelpcdn.com/bphoto/Ej3WhrHQWwoiRdVeIQ3npw/ls.jpg",
+          "srcset": "https://s3-media1.fl.yelpcdn.com/bphoto/Ej3WhrHQWwoiRdVeIQ3npw/258s.jpg 1.03x,https://s3-media1.fl.yelpcdn.com/bphoto/Ej3WhrHQWwoiRdVeIQ3npw/348s.jpg 1.39x,https://s3-media1.fl.yelpcdn.com/bphoto/Ej3WhrHQWwoiRdVeIQ3npw/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 18,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 18,
+      "reviewCount": 33,
+      "name": "Gur",
+      "neighborhoods": ["Centre"],
+      "rating": 2.5,
+      "businessUrl": "/biz/gur-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 12 39 39",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "23 rue de Béthune",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "4EokfsC_Y0JIIlBePhxIKw",
+	"lat": 50.63178,
+	"lng": 3.09087,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/4EokfsC_Y0JIIlBePhxIKw",
+      "photoHref": "/biz/snack-tetouan-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media3.fl.yelpcdn.com/bphoto/LQiGSecK2gbmJ2KBYNjP1Q/ls.jpg",
+          "srcset": "https://s3-media3.fl.yelpcdn.com/bphoto/LQiGSecK2gbmJ2KBYNjP1Q/258s.jpg 1.03x,https://s3-media3.fl.yelpcdn.com/bphoto/LQiGSecK2gbmJ2KBYNjP1Q/348s.jpg 1.39x,https://s3-media3.fl.yelpcdn.com/bphoto/LQiGSecK2gbmJ2KBYNjP1Q/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 19,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 19,
+      "reviewCount": 2,
+      "name": "Snack Tetouan",
+      "neighborhoods": ["Wazemmes"],
+      "rating": 3,
+      "businessUrl": "/biz/snack-tetouan-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "",
+      "priceRange": "",
+      "alternateNames": [],
+      "formattedAddress": "149 rue des Postes",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "lVizCh2fVl_PJ3eB5iGFrw",
+	"lat": 50.632615,
+	"lng": 3.062563,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/lVizCh2fVl_PJ3eB5iGFrw",
+      "photoHref": "/biz/pitta-fives-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media4.fl.yelpcdn.com/bphoto/EOCzirdpJZGcm8Zy-tKqNw/ls.jpg",
+          "srcset": "https://s3-media4.fl.yelpcdn.com/bphoto/EOCzirdpJZGcm8Zy-tKqNw/258s.jpg 1.03x,https://s3-media4.fl.yelpcdn.com/bphoto/EOCzirdpJZGcm8Zy-tKqNw/348s.jpg 1.39x,https://s3-media4.fl.yelpcdn.com/bphoto/EOCzirdpJZGcm8Zy-tKqNw/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": false
+    },
+    "snippet": null,
+    "markerKey": 20,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 20,
+      "reviewCount": 4,
+      "name": "Pitta Fives",
+      "neighborhoods": ["Fives"],
+      "rating": 4,
+      "businessUrl": "/biz/pitta-fives-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 19 46 34",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "178 B Rue Pierre Legrand",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "ic77YyWnRotvhy_3j7j8RA",
+	"lat": 50.6313119,
+	"lng": 3.059632,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/ic77YyWnRotvhy_3j7j8RA",
+      "photoHref": "/biz/ali-baba-otantik-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media2.fl.yelpcdn.com/bphoto/nxOBuPcnwveIewg89izWsQ/ls.jpg",
+          "srcset": "https://s3-media2.fl.yelpcdn.com/bphoto/nxOBuPcnwveIewg89izWsQ/258s.jpg 1.03x,https://s3-media2.fl.yelpcdn.com/bphoto/nxOBuPcnwveIewg89izWsQ/348s.jpg 1.39x,https://s3-media2.fl.yelpcdn.com/bphoto/nxOBuPcnwveIewg89izWsQ/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 21,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 21,
+      "reviewCount": 9,
+      "name": "Ali Baba Otantik",
+      "neighborhoods": ["Centre"],
+      "rating": 3,
+      "businessUrl": "/biz/ali-baba-otantik-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 54 75 30",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "180 rue Solférino",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=turkish&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Turc"
+        },
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        },
+        {
+          "url": "/search?cflt=sandwiches&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Sandwichs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "2Vjel4ILyOMfsAaqXfEseQ",
+	"lat": 50.636457,
+	"lng": 3.0616378,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/2Vjel4ILyOMfsAaqXfEseQ",
+      "photoHref": "/biz/unik-kebab-lille-4?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media4.fl.yelpcdn.com/bphoto/iyYm2RBt51woOhbWUgiXHQ/ls.jpg",
+          "srcset": "https://s3-media4.fl.yelpcdn.com/bphoto/iyYm2RBt51woOhbWUgiXHQ/258s.jpg 1.03x,https://s3-media4.fl.yelpcdn.com/bphoto/iyYm2RBt51woOhbWUgiXHQ/348s.jpg 1.39x,https://s3-media4.fl.yelpcdn.com/bphoto/iyYm2RBt51woOhbWUgiXHQ/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 22,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 22,
+      "reviewCount": 14,
+      "name": "Unik Kebab",
+      "neighborhoods": ["Moulins"],
+      "rating": 2.5,
+      "businessUrl": "/biz/unik-kebab-lille-4?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 58 02 26",
+      "priceRange": "€€",
+      "alternateNames": [],
+      "formattedAddress": "5 rue Thumesnil",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=hotdogs&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Fast Food"
+        },
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "mvKzbTTrv5wxTjoBg6dHNA",
+	"lat": 50.6371977,
+	"lng": 3.0679692,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/mvKzbTTrv5wxTjoBg6dHNA",
+      "photoHref": "/biz/istanbul-express-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media1.fl.yelpcdn.com/bphoto/catemxNKTK9mMrGM8ATtng/ls.jpg",
+          "srcset": "https://s3-media1.fl.yelpcdn.com/bphoto/catemxNKTK9mMrGM8ATtng/258s.jpg 1.03x,https://s3-media1.fl.yelpcdn.com/bphoto/catemxNKTK9mMrGM8ATtng/348s.jpg 1.39x,https://s3-media1.fl.yelpcdn.com/bphoto/catemxNKTK9mMrGM8ATtng/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 23,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 23,
+      "reviewCount": 4,
+      "name": "Istanbul Express",
+      "neighborhoods": ["Moulins"],
+      "rating": 4,
+      "businessUrl": "/biz/istanbul-express-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 52 50 12",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "2 Rue Bossuet",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "3UzvUb-sRq4JOoeNCD27ew",
+	"lat": 50.60955,
+	"lng": 3.04476,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/3UzvUb-sRq4JOoeNCD27ew",
+      "photoHref": "/biz/o-d%C3%A9lice-lille-2?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media4.fl.yelpcdn.com/bphoto/KL1PLHsIpS7yXF70rwOz-Q/ls.jpg",
+          "srcset": "https://s3-media4.fl.yelpcdn.com/bphoto/KL1PLHsIpS7yXF70rwOz-Q/258s.jpg 1.03x,https://s3-media4.fl.yelpcdn.com/bphoto/KL1PLHsIpS7yXF70rwOz-Q/348s.jpg 1.39x,https://s3-media4.fl.yelpcdn.com/bphoto/KL1PLHsIpS7yXF70rwOz-Q/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 24,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 24,
+      "reviewCount": 5,
+      "name": "O Délice",
+      "neighborhoods": ["Vauban Esquermes"],
+      "rating": 3.5,
+      "businessUrl": "/biz/o-d%C3%A9lice-lille-2?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 55 66 06",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "210/212 rue Colbert",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=brasseries&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Brasseries"
+        },
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "Jie4MttyGro92te1ASLzrg",
+	"lat": 50.62849,
+	"lng": 3.03744,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/Jie4MttyGro92te1ASLzrg",
+      "photoHref": "/biz/new-d%C3%A9lice-lille-2?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media1.fl.yelpcdn.com/bphoto/2rmiWvsoaul4VuIUmPNP3g/ls.jpg",
+          "srcset": "https://s3-media1.fl.yelpcdn.com/bphoto/2rmiWvsoaul4VuIUmPNP3g/258s.jpg 1.03x,https://s3-media1.fl.yelpcdn.com/bphoto/2rmiWvsoaul4VuIUmPNP3g/348s.jpg 1.39x,https://s3-media1.fl.yelpcdn.com/bphoto/2rmiWvsoaul4VuIUmPNP3g/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 25,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 25,
+      "reviewCount": 4,
+      "name": "New Délice",
+      "neighborhoods": ["Wazemmes"],
+      "rating": 4,
+      "businessUrl": "/biz/new-d%C3%A9lice-lille-2?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "",
+      "priceRange": "",
+      "alternateNames": [],
+      "formattedAddress": "rue Léon Gambetta",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        },
+        {
+          "url": "/search?cflt=sandwiches&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Sandwichs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "E80sWXU9h17ceDptaPbVow",
+	"lat": 50.6193907,
+	"lng": 3.05089,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/E80sWXU9h17ceDptaPbVow",
+      "photoHref": "/biz/efes-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media3.fl.yelpcdn.com/bphoto/YwC6ZnULy6WFz8ePt5a4_Q/ls.jpg",
+          "srcset": "https://s3-media3.fl.yelpcdn.com/bphoto/YwC6ZnULy6WFz8ePt5a4_Q/258s.jpg 1.03x,https://s3-media3.fl.yelpcdn.com/bphoto/YwC6ZnULy6WFz8ePt5a4_Q/348s.jpg 1.39x,https://s3-media3.fl.yelpcdn.com/bphoto/YwC6ZnULy6WFz8ePt5a4_Q/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": false
+    },
+    "snippet": null,
+    "markerKey": 26,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 26,
+      "reviewCount": 5,
+      "name": "Efes",
+      "neighborhoods": ["Wazemmes"],
+      "rating": 3.5,
+      "businessUrl": "/biz/efes-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 13 95 70",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "16 place Nouvelle Aventure",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=turkish&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Turc"
+        },
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        },
+        {
+          "url": "/search?cflt=sandwiches&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Sandwichs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "62RRsB5UO7ZEfc1EOlYxAw",
+	"lat": 50.62796,
+	"lng": 3.05753,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/62RRsB5UO7ZEfc1EOlYxAw",
+      "photoHref": "/biz/truva-kebab-lille-2?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media3.fl.yelpcdn.com/bphoto/dL0RIe0SBsUetOSbZPWcFw/ls.jpg",
+          "srcset": "https://s3-media3.fl.yelpcdn.com/bphoto/dL0RIe0SBsUetOSbZPWcFw/258s.jpg 1.03x,https://s3-media3.fl.yelpcdn.com/bphoto/dL0RIe0SBsUetOSbZPWcFw/348s.jpg 1.39x,https://s3-media3.fl.yelpcdn.com/bphoto/dL0RIe0SBsUetOSbZPWcFw/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 27,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 27,
+      "reviewCount": 6,
+      "name": "Truva Kebab",
+      "neighborhoods": ["Vieux-Lille"],
+      "rating": 3,
+      "businessUrl": "/biz/truva-kebab-lille-2?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 66 08 73 73",
+      "priceRange": "€€",
+      "alternateNames": [],
+      "formattedAddress": "3 Rue St André",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "zH04SAaTaa6IwO2w7xSWgw",
+	"lat": 50.6335322,
+	"lng": 3.0414719,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/zH04SAaTaa6IwO2w7xSWgw",
+      "photoHref": "/biz/agadir-snack-lille-2?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media1.fl.yelpcdn.com/bphoto/z2PJUi4S921-dU0qqIeAnQ/ls.jpg",
+          "srcset": "https://s3-media1.fl.yelpcdn.com/bphoto/z2PJUi4S921-dU0qqIeAnQ/258s.jpg 1.03x,https://s3-media1.fl.yelpcdn.com/bphoto/z2PJUi4S921-dU0qqIeAnQ/348s.jpg 1.39x,https://s3-media1.fl.yelpcdn.com/bphoto/z2PJUi4S921-dU0qqIeAnQ/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 28,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 28,
+      "reviewCount": 6,
+      "name": "Agadir Snack",
+      "neighborhoods": ["Lille-Sud"],
+      "rating": 2,
+      "businessUrl": "/biz/agadir-snack-lille-2?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "09 67 13 34 75",
+      "priceRange": "",
+      "alternateNames": [],
+      "formattedAddress": "207 Rue Postes",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "39OfbrdDnI_R5A1sqsHRyw",
+	"lat": 50.6232,
+	"lng": 3.05268,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/39OfbrdDnI_R5A1sqsHRyw",
+      "photoHref": "/biz/sultane-la-madeleine?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media1.fl.yelpcdn.com/bphoto/uHf7PV8VW79zPj75xLZCFQ/ls.jpg",
+          "srcset": "https://s3-media1.fl.yelpcdn.com/bphoto/uHf7PV8VW79zPj75xLZCFQ/258s.jpg 1.03x,https://s3-media1.fl.yelpcdn.com/bphoto/uHf7PV8VW79zPj75xLZCFQ/348s.jpg 1.39x,https://s3-media1.fl.yelpcdn.com/bphoto/uHf7PV8VW79zPj75xLZCFQ/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": false
+    },
+    "snippet": null,
+    "markerKey": 29,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 29,
+      "reviewCount": 3,
+      "name": "Sultane",
+      "neighborhoods": [],
+      "rating": 5,
+      "businessUrl": "/biz/sultane-la-madeleine?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 20 31 35 14",
+      "priceRange": "€",
+      "alternateNames": [],
+      "formattedAddress": "72 Rue Gén de Gaulle",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=hotdogs&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Fast Food"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  },
+  {
+	"bizId": "hFjoC7aHtSrEriOtYOGe3A",
+	"lat": 50.6085277,
+	"lng": 3.0656617,
+    "tags": [],
+    "searchResultLayoutType": "largerScrollablePhotos",
+    "scrollablePhotos": {
+      "allPhotosHref": "/biz_photos/hFjoC7aHtSrEriOtYOGe3A",
+      "photoHref": "/biz/mac-dolma-lille?osq=kebab",
+      "size": 210,
+      "photoList": [
+        {
+          "src": "https://s3-media4.fl.yelpcdn.com/bphoto/4suAyRQKQwtN4MDCs1K3kA/ls.jpg",
+          "srcset": "https://s3-media4.fl.yelpcdn.com/bphoto/4suAyRQKQwtN4MDCs1K3kA/258s.jpg 1.03x,https://s3-media4.fl.yelpcdn.com/bphoto/4suAyRQKQwtN4MDCs1K3kA/348s.jpg 1.39x,https://s3-media4.fl.yelpcdn.com/bphoto/4suAyRQKQwtN4MDCs1K3kA/300s.jpg 1.20x"
+        }
+      ],
+      "isScrollable": true
+    },
+    "snippet": null,
+    "markerKey": 30,
+    "searchResultBusiness": {
+      "parentBusiness": null,
+      "ranking": 30,
+      "reviewCount": 2,
+      "name": "Mac Dolma",
+      "neighborhoods": ["Wazemmes"],
+      "rating": 4,
+      "businessUrl": "/biz/mac-dolma-lille?osq=kebab",
+      "isAd": false,
+      "serviceArea": null,
+      "phone": "03 66 64 01 97",
+      "priceRange": "",
+      "alternateNames": [],
+      "formattedAddress": "33 rue d&amp;#39;Léna",
+      "renderAdInfo": false,
+      "categories": [
+        {
+          "url": "/search?cflt=tradamerican&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Américain traditionnel "
+        },
+        {
+          "url": "/search?cflt=kebab&amp;find_desc=kebab&amp;find_loc=Lille%2C+Nord",
+          "title": "Kebabs"
+        }
+      ]
+    },
+    "childrenBusinessInfo": null
+  }
+]
+}
+
